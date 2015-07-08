@@ -8,3 +8,8 @@ var boole = true;
 
 // same for constants
 const oneNum = 1;
+
+// when javascript is confused it prints out NaN (not a number) or undefined
+var notANum = NaN;
+
+var haveNoIdea = undefined;
