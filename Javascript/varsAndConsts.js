@@ -7,4 +7,4 @@ var str = "hello";
 var boole = true;
 
 // same for constants
-const one = 1;
+const oneNum = 1;
