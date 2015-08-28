@@ -4,3 +4,8 @@ defmodule HelloWorld do
     IO.puts "Hello World"
   end
 end
+
+#How to run
+# run on elixir compiler (iex)
+# and do c("module_name.ex")
+# and then run HelloWorld.printHelloWorld to run functions
